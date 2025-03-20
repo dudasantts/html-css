@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #000000;
+   
+}
+
+.mobile{
+    background-color: #ffffff;
+    max-width: 370px;
+    height: 658px;
+    margin: auto;
+    border-radius: 50px;
+    margin-top: 8%;
+    padding-top: .8%;
+}
+
+.camera{
+    background-color: black;
+    height: 30px;
+    width: 90 px;
+    display: flex;
+    margin: auto;
+    border-radius: 40px;
+}

@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, #EBD4A3, #FFD4E0);
+}
+
+main{
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73706E;
+    padding: 10px;
+    max-width: 550px;
+    margin: 12% auto;
+     
+}
+
+.nome_ari{
+    text-decoration: none;
+    color: rgb(221, 0, 129);
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: orange;
+    font-weight: bolder;
+}
+
+a:active{
+    color: black;
+}
+
+h1{
+    color: #5e5651;
+    text-align: center;
+    font-size: 250%;
+    font-family: "Gwendolyn", serif;
+    font-weight: 700;
+    font-style: normal;
+      
+}
+
+h2{
+    color: #8075a1;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+

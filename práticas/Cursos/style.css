@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.barra_nav{
+    background-color: rgb(212, 214, 238);
+    padding: .5% 10%;
+}
+
+.barra_nav p{
+    font-size: 1.5rem;
+    font-family:  Verdana, sans-serif;
+}
+
+.h1{
+    background-color: azure;
+    padding-top: 2%;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.container{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videos_hmtl_py{
+    padding: 2%;
+}
+
+.video_html, .video_py{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+
+.video_html a, .video_py a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1%;
+}
+
+.video_js, .video_hardware{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+
+.video_js a, .video_hardware a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+
+
