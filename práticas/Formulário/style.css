@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 3em;
+}
+
+form {
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    border: 1px solid gray;
+    height: 30px;
+    margin: 5px;
+}
+
+.btn {
+    width: 50px;
+}
+
+ 
+
