@@ -1,13 +1,14 @@
-particlesJS {
-  "particles"; {
-    "number"; {
-      "value"; 397,
-      "density"; {
-        "enable"; true,
-        "value_area"; 551.3981882630954
+particlesJS(
+         {
+  "particles": {
+    "number": {
+      "value": 397,
+      "density": {
+        "enable": true,
+        "value_area": 551.3981882630954
       }
-    }
-    "color"; {
+    },
+    "color": {
       "value": "#c100ff"
     },
     "shape": {
@@ -108,3 +109,6 @@ particlesJS {
   },
   "retina_detect": true
 }
+
+)
+
