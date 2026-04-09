@@ -1,0 +1,17 @@
+.container {
+    display: flex;              /* ativa Flexbox */
+    flex-direction: row;        /* linha horizontal */
+    justify-content: center;    /* centraliza horizontalmente */
+    align-items: center;        /* centraliza verticalmente */
+    gap: 2em;                   /* espaçamento entre os itens */
+    height: 100vh;              /* altura da tela */
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;              /* se quiser centralizar conteúdo dentro do item */
+    justify-content: center;
+    align-items: center;
+}

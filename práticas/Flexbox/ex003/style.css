@@ -1,0 +1,15 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+}
